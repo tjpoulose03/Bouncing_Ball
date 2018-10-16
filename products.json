@@ -1,0 +1,19 @@
+{
+    "products":[
+        {
+            "product_name":"Glasses1","id":"1234","color":"red"
+        },
+        {
+            "product_name":"Glasses2","id":"1212","color":"black"
+        },
+        {
+            "product_name":"Glasses3","id":"2323","color":"blue"
+        },
+        {
+            "product_name":"Glasses4","id":"4422","color":"orange"
+        },
+        {
+            "product_name":"Glasses5","id":"3213","color":"green"
+        }
+    ]
+}
